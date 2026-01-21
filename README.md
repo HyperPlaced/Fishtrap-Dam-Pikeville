@@ -1,4 +1,4 @@
-# Fishtrap-dam-pikeville
+# Fishtrap-Dam-Pikeville
 
 ## Fishtrap Dam Pikeville, KY GEO-409
 
